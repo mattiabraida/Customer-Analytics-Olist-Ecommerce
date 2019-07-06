@@ -1,6 +1,6 @@
 # Customer-Analytics-Olist-Ecommerce
 
-Customer Analytics is defined as the process that companies use to capture and analysecustomer data for business decisions.
+Customer Analytics is defined as the process that companies use to capture and analyse customer data for business decisions.
 
 The aim of this notebook is to analyse the Olist dataset, available on Kaggle, to proivide actionable insights on customer behaviour and value.
 
