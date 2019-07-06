@@ -8,8 +8,8 @@ The aim of this notebook is to analyse the Olist dataset, available on Kaggle, t
 
 The customers could be divided in two large buckets:
 
-- Direct cutomers, who are the stores tha use Olist to connect to their customers. 
-- Indirect customers, who are the customers of the stores.
+- **Direct cutomers**, who are the stores tha use Olist to connect to their customers. 
+- **Indirect customers**, who are the customers of the stores.
 
 The direct customers generate revenue by paying a fee to use Olist services. Olist collected an extensive amount of data about indirect customers, which can be used to provide better services to the direct customers by offering the insight on their customers.
 
